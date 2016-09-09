@@ -1,0 +1,9 @@
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 'MSEdecon plots the deconvoluted kernel regression curve, the kernel regression curve from the sample without measurement errors (i.e. kernel regression based on x) and the kernel regression curve from the sample with measurement errors (i.e. kernel regression based on z).'
+
+Author: Weining Wang, Lining Yu
+
+Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
+
+Example: n=300 n=3000

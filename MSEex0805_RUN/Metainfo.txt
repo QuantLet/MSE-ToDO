@@ -1,0 +1,11 @@
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description:
+
+Keywords: asymptotic chisquare test, f-test
+
+Author: Shih-Kang Chao
+
+Submitted: Wed, March 14 2012 by Dedy Dwi Prastyo
+
+Datafiles: data_DAX091222-111222.csv

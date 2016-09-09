@@ -1,0 +1,9 @@
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 'MSEivgss performs a regression using an instrumental variable.'
+
+Author: Weining Wang, Lining Yu
+
+Submitted: Sat, November 10 2012 by Dedy Dwi Prastyo
+
+Datafiles: 2010 GSS.sav

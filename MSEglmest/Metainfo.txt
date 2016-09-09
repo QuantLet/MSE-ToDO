@@ -1,0 +1,9 @@
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description:
+
+Keywords: logit, regression
+
+Submitted: Mon, October 04 2010 by Maria Osipenko
+
+Datafiles: kredit.csv

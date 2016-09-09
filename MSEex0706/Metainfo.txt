@@ -1,0 +1,9 @@
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 'The plot illustrates the spectral model and linear model'
+
+Keywords: estimation
+
+Author: Vladimir Spokoiny, Vladimir Panov, Weining Wang
+
+Submitted: Tue, November 13 2012 by Dedy Dwi Prastyo

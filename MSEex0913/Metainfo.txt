@@ -1,0 +1,9 @@
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: The plot so as to illustrate exercise 0912 and 0913
+
+Keywords: asymptotic chisquare test, f-test
+
+Submitted: Wed, August 03 2011 by Dedy Dwi Prastyo
+
+Output: - The plot so as to illustrate exercise 0912 and 0913

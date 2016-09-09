@@ -1,0 +1,13 @@
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 'Draws n observations from a standard normal distribution and plots its empirical distribution function (edf) vs. the normal cumulative distribution function (cdf). Number of draws can be entered interactively.'
+
+Keywords: 'approximation, cdf, distribution, edf, empirical, normal-distribution, standard-normal'
+
+Author: Wolfgang K. Härdle, Lukas Borke
+
+Submitted: Wed, March 04 2015 by Lukas Borke
+
+Input: n- number of observations
+
+Output: '- Draws n observations from a standard normal distribution and plots its empirical distribution function (edf) vs. the normal cumulative distribution function (cdf).'
