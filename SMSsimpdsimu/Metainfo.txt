@@ -1,0 +1,13 @@
+Name oF QuantLet: SMSsimpdsimu 
+
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 'Calculates simplicial depth of simulated data set'
+
+Keywords: simplicial-depth
+
+See also: SMSdisfbank2, SMSsimpdbank, SMSsvmorange
+
+Author: Awdesch Melzer
+
+Submitted: Tue, March 12 2013 by Maria Osipenko

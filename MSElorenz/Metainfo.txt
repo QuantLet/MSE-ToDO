@@ -1,0 +1,11 @@
+Name of QuantLet: MSElorenz 
+
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 
+
+Keywords: logit, lorenz
+
+Submitted: Mon, October 04 2010 by Maria Osipenko
+
+Datafiles: kredit.csv

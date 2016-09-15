@@ -1,0 +1,9 @@
+Name of QuantLet: MSEklcanparam 
+
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description:
+
+Keywords: Kullback-Leibler, canonical-parameter
+
+Submitted: Mon, September 27 2010 by Maria Osipenko

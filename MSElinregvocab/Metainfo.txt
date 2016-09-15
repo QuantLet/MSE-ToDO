@@ -1,0 +1,11 @@
+Name of QuantLet: MSElinregvocab (R 2.9.1)
+
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: MSElinregvocab computes a linear regression for grades in vocabulary data (vocabulary.rda).
+
+Author: Shih-Kang Chao
+
+Submitted: Fri, May 03 2013 by Franziska Schulz
+
+Datafiles: vocabulary.rda

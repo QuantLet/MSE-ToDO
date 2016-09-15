@@ -1,0 +1,9 @@
+Name of QuantLet: MSEspqlogret
+
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 'Plots quarterly S&P 500 logreturns data from Q2 1980 to Q2 2012'
+
+Submitted: Thu, November 15 2012 by Dedy Dwi Prastyo
+
+Datafiles: spq.txt

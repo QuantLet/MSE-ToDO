@@ -1,0 +1,11 @@
+Name of QuantLet: MSEnonpara2 
+
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 'Generates n=300 standard normal distributed random sample, and draws the kernel density curve of the estimated kernel density function using a Gaussian kernel. Since the kernel density function is biased in a finite sample, one can not compare it with the true density directly. One rather compare it with the expectation of the kernel density function under the true density. Then it draws the expectation of the kernel density function under the true density.'
+
+Author: Weining Wang, Lining Yu
+
+Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
+
+Example: n_1=300 n_1=3000

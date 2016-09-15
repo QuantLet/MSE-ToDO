@@ -1,0 +1,9 @@
+Name of QuantLet: MSEqlretqqplot (R 2.9.1)
+
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 'Plots quarterly S & P logreturns data from Q2 1980 to Q2 2012 to check the normality assumption for log returns'
+
+Submitted: Thu, November 15 2012 by Dedy Dwi Prastyo
+
+Datafiles: spq.txt

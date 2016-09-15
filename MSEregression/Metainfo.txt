@@ -1,0 +1,12 @@
+Name of QuantLet: MSEregression
+
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 'Generates n = 300 samples, then perform linear regressions in the error in design model.'
+
+Author: Weining Wang, Lining Yu
+
+Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
+
+Example: n=300 n=3000
+

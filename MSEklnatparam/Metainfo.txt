@@ -1,0 +1,9 @@
+name of QuantLet: MSEklnatparam
+
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description:
+
+Keywords: Kullback-Leibler
+
+Submitted: Mon, September 27 2010 by Maria Osipenko

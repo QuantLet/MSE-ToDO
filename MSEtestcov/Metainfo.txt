@@ -1,0 +1,9 @@
+Name of QuantLet: MSEtestcov (R 2.9.1)
+
+Published in: Modern Mathematical Statistics : Exercise and Solution
+
+Description: 'Tests equality of matrices in Härdle, Simar, Exercise 7.13'
+
+Author: Shih-Kang Chao
+
+Submitted: Fri, May 03 2013 by Franziska Schulz
