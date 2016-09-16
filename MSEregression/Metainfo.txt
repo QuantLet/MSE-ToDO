@@ -4,6 +4,8 @@ Published in: Modern Mathematical Statistics : Exercise and Solution
 
 Description: 'Generates n = 300 samples, then perform linear regressions in the error in design model.'
 
+Keywords:
+
 Author: Weining Wang, Lining Yu
 
 Submitted: Fri, November 09 2012 by Dedy Dwi Prastyo
