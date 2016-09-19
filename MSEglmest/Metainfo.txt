@@ -1,8 +1,10 @@
-Published in: Modern Mathematical Statistics : Exercise and Solution
+Name of QuantLet: MSEglmest
 
-Description:
+Published in: Modern Mathematical Statistics : Exercises and Solutions
 
-Keywords: logit, regression
+Description: 
+
+Keywords: logit, regression, GLM, model, financial
 
 Submitted: Mon, October 04 2010 by Maria Osipenko
 

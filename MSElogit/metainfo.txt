@@ -1,9 +1,11 @@
 Name of QuantLet: MSElogit
 
-Published in: Modern Mathematical Statistics : Exercise and SolutionDescription:
+Published in: Modern Mathematical Statistics : Exercises and Solutions
 
-Keywords: logit, regression
+Description:
+
+Keywords: plot, logit, regression
 
 Submitted: Mon, October 04 2010 by Maria Osipenko
 
-Datafiles: kredit.csv
+Datafile: kredit.csv

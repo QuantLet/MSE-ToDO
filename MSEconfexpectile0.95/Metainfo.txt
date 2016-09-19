@@ -1,4 +1,6 @@
-Published in: Modern Mathematical Statistics : Exercise and Solution
+Name of QuantLet: MSEconfexpectile0.95
+
+Published in: Modern Mathematical Statistics : Exercises and Solutions
 
 Description: 'MSEconfexpectile constructs the confidence bands for 0.95 expectile curve.'
 
