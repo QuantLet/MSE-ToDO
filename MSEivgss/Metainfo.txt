@@ -1,9 +1,13 @@
-Published in: Modern Mathematical Statistics : Exercise and Solution
+Name of QuantLet: MSEivgss
 
-Description: 'MSEivgss performs a regression using an instrumental variable.'
+Published in: 'Modern Mathematical Statistics : Exercise and Solution'
+
+Description: 'Performs a linear regression with data from The General Social Survey (GSS) using an instrumental variable.'
+
+Keywords: regression, linear-regression, estimation, variable, multivariate
 
 Author: Weining Wang, Lining Yu
 
 Submitted: Sat, November 10 2012 by Dedy Dwi Prastyo
 
-Datafiles: 2010 GSS.sav
+Datafile: 2010 GSS.sav

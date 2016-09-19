@@ -1,9 +1,11 @@
-name of QuantLet: MSEklnatparam
+Name of QuantLet: MSEklnatparam
 
-Published in: Modern Mathematical Statistics : Exercise and Solution
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 
-Description:
+Description: 'Draws a plot of the Kullback-Leibler function for a natural parameter.'
 
-Keywords: Kullback-Leibler
+Keywords: plot, visualization, Kullback-Leibler, function, parameter
 
 Submitted: Mon, September 27 2010 by Maria Osipenko
+
+Example: 'Plot of the Kullback-Leibler function f(theta) for a natural parameter.' 
