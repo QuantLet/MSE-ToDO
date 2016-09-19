@@ -1,9 +1,13 @@
-Published in: Modern Mathematical Statistics : Exercise and Solution
+Name of QuantLet: MSEex0706
 
-Description: 'The plot illustrates the spectral model and linear model'
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 
-Keywords: estimation
+Description: 'Plots and illustrates the spectral model and the linear model in this exercise.'
+
+Keywords: estimation, spectral, linear, model, linear-model, plot, visualization
 
 Author: Vladimir Spokoiny, Vladimir Panov, Weining Wang
 
 Submitted: Tue, November 13 2012 by Dedy Dwi Prastyo
+
+Example: Shows the model over time. 

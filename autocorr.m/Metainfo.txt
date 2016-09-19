@@ -1,9 +1,9 @@
-Name of Quantlet: autocorr.m (MatLab R2007b)
+Name of Quantlet: autocorr.m 
 
-Published in: Modern Mathematical Statistics : Exercise and Solution
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 
-Description: 'Compute or plot the sample auto-correlation function (ACF) of a univariate, stochastic time series. When called with no output arguments, AUTOCORR displays the ACF sequence with confidence bounds.'
+Description: 'Computes or plots the sample auto-correlation function (ACF) of a univariate, stochastic time series. When called with no output arguments, AUTOCORR displays the ACF sequence with confidence bounds.'
 
-Keywords: 
+Keywords: plot, autocorrelation, univariate, stochastic, time-series
 
 Submitted: Wed, November 03 2010 by Maria Osipenko

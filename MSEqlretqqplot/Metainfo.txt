@@ -1,9 +1,13 @@
-Name of QuantLet: MSEqlretqqplot (R 2.9.1)
+Name of QuantLet: MSEqlretqqplot
 
-Published in: Modern Mathematical Statistics : Exercise and Solution
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 
-Description: 'Plots quarterly S & P logreturns data from Q2 1980 to Q2 2012 to check the normality assumption for log returns'
+Description: 'Plots quarterly S&P log-returns for data from Q2 1980 to Q2 2012 to check the normality assumption for log-returns.'
+
+Keywords: qq-plot, plot, visualization, financial, distribution, normal
 
 Submitted: Thu, November 15 2012 by Dedy Dwi Prastyo
 
-Datafiles: spq.txt
+Datafile: spq.txt
+
+Example: 'QQ-plot for S&P index quarterly log-returns during the period Q2 1980 - Q2 2012.'
