@@ -1,6 +1,6 @@
 Name of QuantLet: MSEloglikelihood 
 
-Published in: Modern Mathematical Statistics : Exercises and Solutions
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 
 Description: 'Creates plots and scatterplots of densities and LLR for two different parameters theta.'
 

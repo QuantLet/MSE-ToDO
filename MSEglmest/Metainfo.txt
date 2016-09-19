@@ -1,11 +1,11 @@
 Name of QuantLet: MSEglmest
 
-Published in: Modern Mathematical Statistics : Exercises and Solutions
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 
-Description: 
+Description: 'Computes GLM coefficients, standard errors, z- and p-values and gives overall model fit.'
 
 Keywords: logit, regression, GLM, model, financial
 
 Submitted: Mon, October 04 2010 by Maria Osipenko
 
-Datafiles: kredit.csv
+Datafile: kredit.csv

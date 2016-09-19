@@ -1,6 +1,6 @@
 Name of Quantlet: autocorr.m 
 
-Published in: Modern Mathematical Statistics : Exercises and Solutions
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 
 Description: 'Computes or plots the sample auto-correlation function (ACF) of a univariate, stochastic time series. When called with no output arguments, AUTOCORR displays the ACF sequence with confidence bounds.'
 

@@ -1,11 +1,13 @@
 Name of QuantLet: MSElogit
 
-Published in: Modern Mathematical Statistics : Exercises and Solutions
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 
-Description:
+Description: 'Plots the scores with respect to probability of default and response variable.'
 
-Keywords: plot, logit, regression
+Keywords: plot, logit, regression, factor scores, probability
 
 Submitted: Mon, October 04 2010 by Maria Osipenko
 
 Datafile: kredit.csv
+
+Example: Plot of the scores and accumulated probability.

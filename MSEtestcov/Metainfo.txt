@@ -1,8 +1,10 @@
-Name of QuantLet: MSEtestcov (R 2.9.1)
+Name of QuantLet: MSEtestcov 
 
-Published in: Modern Mathematical Statistics : Exercise and Solution
+Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 
-Description: 'Tests equality of matrices in Härdle, Simar, Exercise 7.13'
+Description: 'Tests the hypothesis of the equality of the covariance matrices on two simulated 4-dimensional samples of sizes n1=30 and n2=20.'
+
+Keywords: Testing, covariance, covariance-matrix, likelihood-ratio-test, simulation
 
 Author: Shih-Kang Chao
 
