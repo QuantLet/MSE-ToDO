@@ -10,14 +10,16 @@ library(MASS)
 library(matrixcalc)
 library(sem)
 
-dataIV=read.spss("2010 GSS.sav",to.data.frame=T)
-y=dataIV$logconrinc
-x=dataIV$educ
-w=dataIV$sibs
+dataIV = read.spss("2010 GSS.sav",to.data.frame=T)
+y      = dataIV$logconrinc
+x      = dataIV$educ
+w      = dataIV$sibs
 
-lm.sol=lm(y~x)
+lm.sol = lm(y~x)
 summary(lm.sol)
-lm.educ=lm(x~w)
+
+lm.educ = lm(x~w)
 summary(lm.educ)
-IV=tsls(y~x,instruments=~w)
+
+IV = tsls(y~x,instruments=~w)
 summary(IV)

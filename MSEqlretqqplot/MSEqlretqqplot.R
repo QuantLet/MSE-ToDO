@@ -2,22 +2,21 @@
 # install.packages("pastecs")
 # install.packages("graphics")
 
-
 library(boot)
 library(pastecs)
 library(graphics)
 
-file  <- "spq"
+file      = "spq"
 
-datafile = paste(file,"txt",sep = ".")
+datafile  = paste(file,"txt",sep = ".")
 
-quarterly 	= read.table(datafile,sep="",dec=",")
-colnms 	<- c ( "date" ,"year","price") 
+quarterly = read.table(datafile,sep="",dec=",")
+colnms 	  = c ( "date" ,"year","price") 
 
-colnames(quarterly) <- colnms
+colnames(quarterly) = colnms
 attach(quarterly)
 
-return = diff(log(price))
+return   = diff(log(price))
 n 	 = length(diff(log(price)))
 
 par(mai=c(1, 1.3, 1, 1))
