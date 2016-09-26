@@ -5,8 +5,11 @@ Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 Description: 'Plots the Lorenz curve in order to check the goodness of the model.'
 
 Keywords: logit, lorenz, plot, probability, model
+<<<<<<< HEAD
 
 Author: Wolfgang K. Haerdle, Weining Wang, Shih Kang Chao
+=======
+>>>>>>> refs/remotes/QuantLet/master
 
 Submitted: Mon, October 04 2010 by Maria Osipenko
 
