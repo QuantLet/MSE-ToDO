@@ -5,11 +5,8 @@ Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
 Description: 'Plots quarterly S&P log-returns for data from Q2 1980 to Q2 2012 to check the normality assumption for log-returns.'
 
 Keywords: qq-plot, plot, visualization, financial, distribution, normal
-<<<<<<< HEAD
 
 Author: Wolfgang K. Haerdle, Weining Wang, Shih Kang Chao
-=======
->>>>>>> refs/remotes/QuantLet/master
 
 Submitted: Thu, November 15 2012 by Dedy Dwi Prastyo
 
