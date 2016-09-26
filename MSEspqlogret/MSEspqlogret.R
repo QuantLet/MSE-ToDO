@@ -7,17 +7,18 @@ library(boot)
 library(pastecs)
 library(graphics)
 
-file  <- "spq"
+file      = "spq"
 
-datafile = paste(file,"txt",sep = ".")
+datafile  = paste(file,"txt",sep = ".")
 
 quarterly = read.table(datafile,sep="",dec=",")
-colnms 	<- c("date", "year", "price") 
-colnames(quarterly) <- colnms
+colnms 	  = c("date", "year", "price") 
+
+colnames(quarterly) = colnms
 attach(quarterly)
 
 return = diff(log(price))
-n = length(diff(log(price)))
+n      = length(diff(log(price)))
 
 par(mai=c(1.4, 1.5, 1, 1))
 plot(return,col="red3", type="l",  xlim=c(0,n), ylim=c(min(return),max(return)), axes=FALSE, frame=TRUE,lwd=3,cex.main = 2.8, ann = FALSE)
