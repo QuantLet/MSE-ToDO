@@ -1,0 +1,116 @@
+# ------------------------------------------------------------------------------#
+# Book:        MSE #
+# ------------------------------------------------------------------------------#
+# Quantlet:    MSEJarque-Beratest#
+# ------------------------------------------------------------------------------#
+# Description: Perform Jarque-Bera test to Jarque-Bera test on the #
+# DAX log return 20091221-20111222 #
+# ------------------------------------------------------------------------------#
+# Usage:       -#
+# ------------------------------------------------------------------------------#
+# Inputs:      None#
+# ------------------------------------------------------------------------------#
+# Output:      Jarque-Bera test on the DAX log return 20091221-20111222#
+# ------------------------------------------------------------------------------#
+# Keywords:    Jarque-Bera test#
+# ------------------------------------------------------------------------------#
+# See also:    -#
+# ------------------------------------------------------------------------------#
+# Example:     -#
+# ------------------------------------------------------------------------------#
+# Author:      Shih-Kang Chao#
+# ------------------------------------------------------------------------------#
+#Close windows and clear variables#
+library(foreign)#
+install.packages("tseries")#
+library(tseries)#
+DAX   <- read.csv("data_DAX091222-111222.csv")   #
+dax1  <- DAX[2:(length(DAX[,7])-1),7]#
+dax2  <- DAX[3:length(DAX[,7]),7]#
+z        <- log(dax1)-log(dax2)#
+z        <- (z-mean(z))/sd(z)#
+jarque.bera.test(z)
+DAX   <- read.csv("data_DAX091222-111222.csv")   #
+dax1  <- DAX[2:(length(DAX[,7])-1),7]#
+dax2  <- DAX[3:length(DAX[,7]),7]#
+z        <- log(dax1)-log(dax2)#
+z        <- (z-mean(z))/sd(z)#
+jarque.bera.test(z)
+library(tseries)
+jarque.bera.test(z)
+# ------------------------------------------------------------------------------#
+# Book:        MSE #
+# ------------------------------------------------------------------------------#
+# Quantlet:    MSEJarque-Beratest#
+# ------------------------------------------------------------------------------#
+# Description: Perform Jarque-Bera test to Jarque-Bera test on the #
+# DAX log return 20091221-20111222 #
+# ------------------------------------------------------------------------------#
+# Usage:       -#
+# ------------------------------------------------------------------------------#
+# Inputs:      None#
+# ------------------------------------------------------------------------------#
+# Output:      Jarque-Bera test on the DAX log return 20091221-20111222#
+# ------------------------------------------------------------------------------#
+# Keywords:    Jarque-Bera test#
+# ------------------------------------------------------------------------------#
+# See also:    -#
+# ------------------------------------------------------------------------------#
+# Example:     -#
+# ------------------------------------------------------------------------------#
+# Author:      Shih-Kang Chao#
+# ------------------------------------------------------------------------------#
+#Close windows and clear variables#
+rm(list = ls(all = TRUE))#
+graphics.off()#
+#
+# install/load packages#
+libraries = c("tseries")#
+lapply(libraries, function(x) if (!(x %in% installed.packages())) {#
+  install.packages(x)#
+})#
+lapply(libraries, library, quietly = TRUE, character.only = TRUE)#
+DAX   = read.csv("data_DAX091222-111222.csv")   #
+dax1  = DAX[2:(length(DAX[,7])-1),7]#
+dax2  = DAX[3:length(DAX[,7]),7]#
+z     = log(dax1)-log(dax2)#
+z     = (z-mean(z))/sd(z)#
+jarque.bera.test(z)
+# ------------------------------------------------------------------------------#
+# Book:        MSE #
+# ------------------------------------------------------------------------------#
+# Quantlet:    MSEJarque-Beratest#
+# ------------------------------------------------------------------------------#
+# Description: Perform Jarque-Bera test to Jarque-Bera test on the #
+# DAX log return 20091221-20111222 #
+# ------------------------------------------------------------------------------#
+# Usage:       -#
+# ------------------------------------------------------------------------------#
+# Inputs:      None#
+# ------------------------------------------------------------------------------#
+# Output:      Jarque-Bera test on the DAX log return 20091221-20111222#
+# ------------------------------------------------------------------------------#
+# Keywords:    Jarque-Bera test#
+# ------------------------------------------------------------------------------#
+# See also:    -#
+# ------------------------------------------------------------------------------#
+# Example:     -#
+# ------------------------------------------------------------------------------#
+# Author:      Shih-Kang Chao#
+# ------------------------------------------------------------------------------#
+#Close windows and clear variables#
+rm(list = ls(all = TRUE))#
+graphics.off()#
+#
+# install/load packages#
+libraries = c("tseries")#
+lapply(libraries, function(x) if (!(x %in% installed.packages())) {#
+  install.packages(x)#
+})#
+lapply(libraries, library, quietly = TRUE, character.only = TRUE)#
+DAX   = read.csv("data_DAX091222-111222.csv")   #
+dax1  = DAX[2:(length(DAX[,7])-1),7]#
+dax2  = DAX[3:length(DAX[,7]),7] #
+z     = log(dax1)-log(dax2)      # log returns#
+z     = (z-mean(z))/sd(z)        # standardisation#
+jarque.bera.test(z)
