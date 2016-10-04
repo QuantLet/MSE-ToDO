@@ -1,6 +1,6 @@
 Name of QuantLet: MSEqlretqqplot
 
-Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
 
 Description: 'Plots quarterly S&P log-returns for data from Q2 1980 to Q2 2012 to check the normality assumption for log-returns.'
 
