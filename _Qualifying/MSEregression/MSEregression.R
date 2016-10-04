@@ -21,5 +21,4 @@ for (iter in 1:400) {
     sum_b = (sum_b + b)
 }
 
-1/400 * sum_b
- 
+1/400 * sum_b 

@@ -1,6 +1,6 @@
 Name of QuantLet: MSEregression
 
-Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
 
 Description: 'Generates n = 300 samples, then performs linear regressions in the error in design model.'
 
