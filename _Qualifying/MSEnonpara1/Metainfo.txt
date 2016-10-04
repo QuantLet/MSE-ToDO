@@ -1,6 +1,6 @@
 Name of QuantLet: MSEnonpara1
 
-Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
 
 Description: 'Generates an n=300 t(3) distributed random sample, and draws the kernel density curve of the estimated kernel density function using a Gaussian kernel, since the kernel density function is biased.'
 

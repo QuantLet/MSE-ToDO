@@ -71,15 +71,4 @@ prop2  #yaxis
 win.graph()
 plot(prop1, prop2, xlab = "P(S<s)", ylab = "P(S<s|Y=1)", lwd = 2, pch = 16, col = "red", type = "l", cex.lab = 1.25, cex.axis = 1.25)
 par(new = TRUE)
-abline(0, 1)
-
-
-
-
-
-
-
-
-
-
- 
+abline(0, 1) 

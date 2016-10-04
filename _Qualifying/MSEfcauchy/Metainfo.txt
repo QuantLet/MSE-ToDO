@@ -1,6 +1,6 @@
 Name of QuantLet: MSEfcauchy
 
-Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
 
 Description: 'Plots the critical region of the Neyman-Pearson test within a specific interval if p is a density of the standard Cauchy distribution.'
 

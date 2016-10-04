@@ -1,6 +1,6 @@
 Name of QuantLet: MSEklnatparam
 
-Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
 
 Description: 'Draws a plot of the Kullback-Leibler function for a natural parameter.'
 

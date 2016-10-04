@@ -54,5 +54,4 @@ for (j in 1:length(den_x$x)) {
     f[j] = 1/(h * length(z)) * sum_k
 }
 
-lines(den_x$x, f, lwd = 4, lty = 3, col = "black")
- 
+lines(den_x$x, f, lwd = 4, lty = 3, col = "black") 

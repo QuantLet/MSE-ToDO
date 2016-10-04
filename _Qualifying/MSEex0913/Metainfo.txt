@@ -1,6 +1,6 @@
 Name of QuantLet: MSEex0913
 
-Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
 
 Description: 'Plots the significance levels in context with n from n=1 to n=200.'
 

@@ -1,6 +1,6 @@
 Name of QuantLet: MSElorenz 
 
-Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
 
 Description: 'Plots the Lorenz curve in order to check the goodness of the model.'
 

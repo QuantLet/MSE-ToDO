@@ -1,6 +1,6 @@
 Name of QuantLet: MSElogit
 
-Published in: 'Modern Mathematical Statistics : Exercises and Solutions'
+Published in: 'Modern Mathematical Statistics: Exercises and Solutions'
 
 Description: 'Plots the scores with respect to probability of default and response variable.'
 
